@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.test_tmp/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*
+
+# Local configuration and credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*
+secrets*
+config.local.*
+
+# Runtime and generated output
+logs/
+runtime_logs/
+temp/
+tmp/
+cache/
+outputs/
+captures/
+*.log
+
+# Data and model artifacts belong on IEEE DataPort
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.npz
+*.npy
+
+# Publication working files
+*.docx
+*.pptx
+*.opju
+
+# Small CSV fixtures used by the read-only unit tests are tracked.
+!tests/fixtures/**/*.csv

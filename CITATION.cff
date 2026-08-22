@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use resources from this repository, please cite the repository and the associated IEEE DataPort dataset as appropriate."
+title: "Spring-Hall Fingertip"
+authors:
+  - family-names: "Ma"
+    given-names: "Wangjie"
+    orcid: "https://orcid.org/0009-0008-7856-9367"
+version: "1.0.0"
+date-released: 2026-08-22
+repository-code: "https://github.com/wangjie00927-debug/spring-hall-fingertip"
+url: "https://github.com/wangjie00927-debug/spring-hall-fingertip"
+keywords:
+  - "tactile sensing"
+  - "force sensing"
+  - "Hall sensor"
+  - "three-axis force"
+  - "contact localization"
+  - "sensor calibration"
+preferred-citation:
+  type: data
+  authors:
+    - family-names: "Ma"
+      given-names: "Wangjie"
+    - family-names: "Meng"
+      given-names: "Xin"
+    - family-names: "Lu"
+      given-names: "Jianning"
+    - family-names: "Wang"
+      given-names: "Jiale"
+    - family-names: "Yang"
+      given-names: "Zhonghai"
+    - family-names: "Zhang"
+      given-names: "Huanrui"
+  title: "Spring-Hall Fingertip Dataset for Contact Localization, Three-Axis Force Measurement, and Magnetic-Disturbance Rejection"
+  doi: "10.21227/kpv-jq50"
+  date-released: 2026-08-22
