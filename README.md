@@ -5,7 +5,14 @@ Open research resources for an excitation-referenced Spring-Hall tactile sensing
 ## Overview
 
 The project studies a research-oriented compliant fingertip instrument that observes deformation through four tri-axis Hall sensors. Adjacent background and excitation-on observations provide excitation-referenced differential measurements for three-axis force and contact-related reconstruction. This repository provides public orientation, documentation, and a validated inspection utility; the associated experimental data and result-source artifacts are distributed separately through IEEE DataPort.
+<p align="center">
+  <img src="images/Abstract.jpg" width="85%">
+</p>
 
+<p align="center">
+  <img src="images/Anti-magnetic interference capability.png" width="45%">
+  <img src="images/Practical Experiment.png" width="45%">
+</p>
 ## Repository Scope
 
 - A concise system and repository overview.
